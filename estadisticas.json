@@ -1,0 +1,62 @@
+{
+  "date": "Tue Jun 08 10:19:10 MSK 2021",
+  "author": "jorgaf",
+  "description": "File created by Loxa Web site exporter. http://www.j4loxa.com/sna/gephi/plugins/index.html",
+  "graphs": [
+    {
+      "name": "2019_congruence",
+      "title": "Title to 2019_congruence",
+      "tip": "",
+      "nodes": "85",
+      "edges": "418",
+      "description": "",
+      "imgColorDescription": "",
+      "graphfile": "2019_congruence/2019_congruence.csv",
+      "pdffile": "2019_congruence/2019_congruence.pdf",
+      "browsegraph": "2019_congruence/2019_congruence.gexf",
+      "type": "Undirected",
+      "metrics": [
+        {
+          "name": "Metric 1",
+          "value": "0,00",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Metric 2",
+          "value": "0,00",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Metric 3",
+          "value": "0,00",
+          "description": "Description for metric 3"
+        },
+        {
+          "name": "Metric 4",
+          "value": "0,00",
+          "description": "Description for metric 4"
+        },
+        {
+          "name": "Metric 5",
+          "value": "0,00",
+          "description": "Description for metric 5"
+        },
+        {
+          "name": "Metric 6",
+          "value": "0,00",
+          "description": "Description for metric 6"
+        },
+        {
+          "name": "Metric 7",
+          "value": "0,00",
+          "description": "Description for metric 7"
+        },
+        {
+          "name": "Metric 8",
+          "value": "0,00",
+          "description": "Description for metric 8"
+        }
+      ]
+    }
+  ]
+}
